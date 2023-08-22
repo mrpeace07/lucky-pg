@@ -1,0 +1,106 @@
+/* Reset default browser styles */
+ {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set styles for header and navigation */
+  header {
+    background-color: #333;
+    padding: 20px;
+    color: #fff;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Set styles for sections */
+  section {
+    padding: 50px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Set styles for contact section */
+  #contact ul {
+    list-style-type: none;
+    margin-left: 0;
+  }
+  
+  /* Set styles for footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  title{
+    padding: 5px;
+  }
+
+  #home{
+    align-items: center;
+    color: rgb(17, 10, 2)  ;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 3rem;
+  }
+
+  .intro
+  {
+    background-color: azure;
+  }
+
+  .carousel-item
+  {
+    padding: 10px;
+  }
+
+  .picture1
+  {
+size: 5cap;
+padding: 5px;
+  }
+
+  #facility
+  {
+    align-items: center;
+    padding-left: 5rem;
+    background-color:antiquewhite;
+    padding: 3rem ;
+  }
+
+  .describe
+  {
+    align-items:end;
+  }
+
+  #contact{
+    background-color: azure;
+    padding: 5px;
+  }
